@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Manish Sharma @manishmedp
-- 👀 I’m interested in most technologies.
-- 🌱 I’m currently learning Rails, and FastAPI with PGSQL
+- 👋 Hi, I’m Manish Sharma @manishmedp, (personal
+- 👀 I’m interested in web-technologies.
+- 🌱 I’m currently learning Gin-Gonic with MongoDB
 - 💞️ I’m looking to collaborate on React, Rails, Node
 - 📫 How to reach me : `manish@medpiper.com`
 
