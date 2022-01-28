@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manish Sharma @manishmedp, (personal
-- 👀 I’m interested in web-technologies.
-- 🌱 I’m currently learning Gin-Gonic with MongoDB
+- 👀 I’m interested in web-technologies and web3.0.
+- 🌱 I’m currently learning Gin, Flutter, NextJs and Firebase
 - 💞️ I’m looking to collaborate on React, Rails, Node
 - 📫 How to reach me : `manish@medpiper.com`
 
